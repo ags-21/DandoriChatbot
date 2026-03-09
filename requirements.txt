@@ -1,0 +1,8 @@
+streamlit
+pandas
+google-cloud-aiplatform
+chromadb
+openai
+pysqlite3-binary
+python-dotenv
+requests
